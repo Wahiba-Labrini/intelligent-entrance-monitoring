@@ -1,0 +1,5 @@
+venv_iems/
+venv_em/
+*.db
+__pycache__/
+*.pyc
